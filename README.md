@@ -9,7 +9,7 @@ https://getbootstrap.com/docs/4.5/getting-started/introduction/
 Material Design Icons
 https://material.io/resources/icons/?style=baseline
 
-#Get Started
+# Get Started
 
 1. Download Repo
 2. Intall npm (with node JS)
